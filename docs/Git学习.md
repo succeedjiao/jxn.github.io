@@ -32,3 +32,9 @@ git rm --cached 文件; 将文件从暂存区中删除
 ```git
 git rest --hard commitID; 将git仓库中指定的更新记录恢复出来，并且恢复暂存区和工作目录
 ```
+
+## 四、其他
+
+```git
+git remote -v; 查看远程仓库
+```
