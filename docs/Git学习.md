@@ -37,4 +37,5 @@ git rest --hard commitID; 将git仓库中指定的更新记录恢复出来，并
 
 ```git
 git remote -v; 查看远程仓库
+git push [分支] [分支]
 ```
